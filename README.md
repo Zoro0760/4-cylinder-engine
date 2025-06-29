@@ -19,11 +19,13 @@ SolidWorks_Files/ → Native SolidWorks files (.SLDPRT, .SLDASM) STL_Files/ → 
 - ## 🚀 How to Use
 
 1. Clone or download the repository:
-    https://github.com/Zoro0760/4-cylinder-engine.git2. Open the `.SLDASM` file in SolidWorks (2020 or later).
+    https://github.com/Zoro0760/4-cylinder-engine
+   
+. Open the `.SLDASM` file in SolidWorks (2020 or later).
 
-2. Explore or animate the model.
+3. Explore or animate the model.
 
-3. Export or modify parts as needed.
+4. Export or modify parts as needed.
 
 ## 👤 Author
 
