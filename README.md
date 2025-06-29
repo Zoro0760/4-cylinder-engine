@@ -3,7 +3,7 @@
 A fully functional 3D model of a 4-cylinder internal combustion engine built using SolidWorks.  
 Includes pistons, crankshaft, connecting rods, and more with motion-ready assembly.
 
-![Engine Preview](images/engine_preview.png)
+![Engine Preview](engine_preview.png)
 
 ## 📂 Project Structure 
 SolidWorks_Files/ → Native SolidWorks files (.SLDPRT, .SLDASM) STL_Files/ → 3D-printable STL versions images/ → Screenshots or exploded views README.md 
